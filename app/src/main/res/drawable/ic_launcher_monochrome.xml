@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- 打开的书本整体轮廓，用 evenOdd 挖出书脊缝隙 -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:fillType="evenOdd"
+        android:pathData="M54,33 C47,29 36,29 26,31 C25,31.2 24,32 24,33 L24,69 C24,70.5 25.4,71.5 26.9,71.1 C36.5,68.8 46.5,68.8 54,72 C61.5,68.8 71.5,68.8 81.1,71.1 C82.6,71.5 84,70.5 84,69 L84,33 C84,32 83,31.2 82,31 C72,29 61,29 54,33 Z M53,34 L55,34 L55,71 L53,71 Z" />
+</vector>
